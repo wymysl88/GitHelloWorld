@@ -12,6 +12,8 @@ namespace GitHelloWorld
         {
             Console.WriteLine("Hello git");
             Console.ReadKey();
+            Console.WriteLine("Hello to you, too!");
+            Console.ReadKey();
         }
     }
 }
